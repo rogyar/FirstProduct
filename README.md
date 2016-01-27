@@ -1,0 +1,1 @@
+A small example how to redirect to the product page from a category page in case if there's only one product in the category.
